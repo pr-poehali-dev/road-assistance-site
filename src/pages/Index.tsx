@@ -31,7 +31,7 @@ const Index = () => {
 
       {/* Hero Section */}
       <section className="pt-20 pb-16 bg-gradient-to-br from-dark-surface via-dark-surface/95 to-dark-surface/90 text-dark-surface-foreground relative overflow-hidden">
-        <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"%3E%3Cpath d="m0 0h100v100h-100z" fill="none" stroke="%23ffffff" stroke-width="0.1" opacity="0.1"/%3E%3C/svg%3E')] bg-repeat"></div>
+        <div className="absolute inset-0 bg-gradient-to-br from-transparent via-white/5 to-transparent"></div>
         <div className="container mx-auto px-4 relative">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
